@@ -1,17 +1,18 @@
 # Matthew Corr - Senior Consultant
 
-Matt has two main roles, these are Developer and DevOps Engineer. As a developer, Matt has extensive Microsoft Integration experience utilising Biztalk Server and Service Fabric solutions. He is very methodical and known for excellent documentation and diagrams. 
+Throughout his career, Matt has demonstrated a high level of proficiency in two roles: Developer and DevOps Engineer. 
+As a developer, Matt has extensive experience building Microsoft Integration solutions utilising BizTalk Server and Service Fabric. He is well known for his methodical approach and for his excellent documentation and diagrams. 
 
-As a DevOps Engineer, Matt is very passionate about delivering successful outcomes with implementing DevOps processes and automation utilising Microsoft products. He has demonstrated a high level of skill, knowledge and integration with PowerShell, Octopus Deploy, Azure DevOps Repos/ Build/Artifacts and TeamCity applications. 
+As a DevOps Engineer, Matt is passionate about delivering successful outcomes through his expert implementation of DevOps processes and automation. While highly skilled and knowledgeable in Microsoft technologies such as PowerShell and Azure DevOps (formerly VSTS), he is equally proficient in leveraging Octopus Deploy and TeamCity.
 
-In general, he has repeatedly shown high levels of experience with the build, deployment and testing of different integration applications across various types of client environments.
+In general, Matt has repeatedly shown high levels of experience with the build, deployment and testing of different integration applications across various types of client environments. He is continually sought after as an SME in all aspects of DevOps, both within Deloitte and by our clients.
 
 ---
 ## Technology and Skills
-Microsoft BizTalk Server; Microsoft Service Fabric; PowerShell; Octopus Deploy; Azure DevOps; TeamCity; Confluence Administration
+Microsoft BizTalk Server, Microsoft Service Fabric, Microsoft Azure, PowerShell, Octopus Deploy, Azure DevOps, TeamCity, Confluence, Jira
 
 ## Industries and summaries
-Government; Financial Services; Transport; Military; Public Sector; Police
+Government, Financial Services, Transport, Military, Public Sector, Police
 
 ## Education
 **Queensland University of Technology**  
