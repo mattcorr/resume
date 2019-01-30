@@ -14,20 +14,20 @@ Microsoft BizTalk Server; Microsoft Service Fabric; PowerShell; Octopus Deploy; 
 Government; Financial Services; Transport; Military; Public Sector; Police
 
 ## Education
-**Queensland University of Technology**
+**Queensland University of Technology**  
 Bachelor of Information Technology (Software Engineering)
 
-**Southbank Institute of TAFE**
+**Southbank Institute of TAFE**  
 Associate Diploma of Engineering (Computer Systems)
 
 ## Professional Training
-**Microsoft**
+**Microsoft**  
 Microsoft Certified Professional
 
 ## Experience
 
-**Bank of Queensland**
-*DevOps Engineer, Service Fabric Developer*
+**Bank of Queensland**  
+*DevOps Engineer, Service Fabric Developer*  
 March 2016 – present
 
 Multiple Projects
