@@ -42,7 +42,8 @@ October 2018 - Present
 ## Experience
 
 ### Fair Work Ombudsman (ACT)
-*Azure Search Engineer, DevOps Engineer*
+*Azure Search Engineer, DevOps Engineer*  
+March 2019 – present
 
 #### Titan Web Portal
 * Designed and implemented multiple Azure Search indexes
@@ -89,7 +90,7 @@ March 2016 – October 2018
 * Implemented Service Fabric applications
 
 ### RACQ 
-*BizTalk Developer, BizTalk DevOps Engineer*
+*BizTalk Developer, BizTalk DevOps Engineer*  
 July 2014 - February 2016
 
 #### Group Financials
@@ -120,14 +121,20 @@ March 2009 - June 2013
 ## Experience
 
 ### Bank of Queensland
-*BizTalk Developer, BizTalk Infrastructure support*
+*BizTalk Developer, BizTalk Infrastructure support*  
 March 2011 - June 2013
 
-TODO
+#### Biztalk Environment Support
+* Sole engineer who designed, implemented and supported multiple BizTalk environments.
+* Created several small BizTalk applications
+* Worked with various different teams to determine how this BizTalk environment could benefit them
 
-Biztalk Environment design coding and support 3 years
+*Tuxedo Middleware Support*  
+March 2009 - May 2010
 
-Middleware support 1 year
+#### Tuxedo Middleware / Internet Banking
+* Supported the Tuxedo Middleware environment
+* Supported the Internet Banking environment
 
 ---
 
