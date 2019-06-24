@@ -30,7 +30,7 @@ Microsoft Certified Professional
 * [Blog](https://www.intrepidintegration.com)
 * [Twitter](https://www.twitter.com/mattcorr)
 * [Linkedin](https://www.linkedin.com/mattcorr)
-* [Github](https://www.github.com/mattcorr)
+* [GitHub](https://www.github.com/mattcorr)
 
 ---
 
