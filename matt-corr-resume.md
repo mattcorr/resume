@@ -43,17 +43,26 @@ October 2018 - Present
 
 ### Fair Work Ombudsman (ACT)
 *Azure Search Engineer, DevOps Engineer*  
-March 2019 – August 2019
+March 2019 – September 2019
 
 #### Titan Web Portal
 * Designed and implemented multiple Azure Search indexes
 * Designed and implemented multiple C# Azure Function Apps
+* Designed and implemented Azure Automation Runbooks
 * Configured Azure DevOps for 
     * web app build
     * search service and web app deployments
     * function app deployments and configuration
     * automated testing and reporting using xUnit
 * Worked with team members to ensure communication consistency
+
+### Department of Justice
+*DevOps Engineer (part time work)*  
+May 2019 – July 2019
+
+#### Application Platform 
+* Implemented updates and corrections to existing Azure components 
+* Implemented updates and corrections to existing Azure DevOps components
 
 ### Bank of Queensland 
 *DevOps Engineer, Service Fabric Developer*  
