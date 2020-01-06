@@ -3,17 +3,19 @@
 Throughout his career, Matt has demonstrated a high level of proficiency in two roles: Developer and DevOps Engineer. 
 As a developer, Matt has extensive experience building Microsoft Integration solutions utilising BizTalk Server and Service Fabric. He is well known for his methodical approach and for his excellent documentation and diagrams. 
 
-As a DevOps Engineer, Matt is passionate about delivering successful outcomes through his expert implementation of DevOps processes and automation. While highly skilled and knowledgeable in Microsoft technologies such as PowerShell and Azure DevOps _(formerly VSTS)_, he is equally proficient in leveraging industry standard tools like Octopus Deploy and TeamCity.
+As a DevOps Engineer, Matt is passionate about delivering successful outcomes through his expert implementation of DevOps processes and automation. While highly skilled and knowledgeable in Microsoft technologies such as PowerShell and Azure DevOps _(formerly VSTS)_, he is equally proficient in leveraging industry standard tools like Octopus Deploy and TeamCity. 
+
+Matt has recently worked with non-Microsoft environments and tools such as AWS, Jenkins, OpenShift and terraform. This has provided him with more broader experience across the industry as a whole.
 
 In general, Matt has repeatedly shown high levels of experience with the build, deployment and testing of different integration applications across various types of client environments. He is continually sought after as an SME in all aspects of DevOps, both within Deloitte and by our clients.
 
 ---
 
 ## Technology and Skills
-Microsoft BizTalk Server, Microsoft Service Fabric, Microsoft Azure, PowerShell, Octopus Deploy, Azure DevOps, TeamCity, Confluence, Jira, Visual Studio, Visual Studio Code, Git
+  Microsoft Azure, AWS, Docker, Kubernetes, PowerShell, Terraform, Red Hat OpenShift, Microsoft Service Fabric, Octopus Deploy, Microsoft BizTalk Server,Jenkins, Azure DevOps, TeamCity, Confluence, Jira, Visual Studio, Visual Studio Code, Gradle, Git
 
 ## Industries and summaries
-Government, Financial Services, Transport, Military, Public Sector, Police
+Government, Financial Services, Transport, Military, Public Sector, Police, Commercial
 
 ## Education
 **Queensland University of Technology**  
@@ -35,11 +37,22 @@ Microsoft Certified Professional
 ---
 
 ## Employer
-**Deloitte**
+**Deloitte Consulting**  
 Section: Platform Engineering  
 October 2018 - Present
 
 ## Experience
+
+### Panasonic (Japan)
+*DevOps Engineer*  
+October 2019 - December 2019
+
+#### PDP Notifications
+* Documented and refactored multi-environment terraform project on AWS
+* Added new terraform modules
+* Added and updated Jenkins jobs for OpenShift deployment of Java applications
+* Assisted with debugging issues with OpenShift applications
+* Documented in wiki, processes and how-tos for future team members
 
 ### Fair Work Ombudsman (ACT)
 *Azure Search Engineer, DevOps Engineer*  
