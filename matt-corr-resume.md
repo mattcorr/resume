@@ -12,7 +12,7 @@ In general, Matt has repeatedly shown high levels of experience with the build, 
 ---
 
 ## Technology and Skills
-  Microsoft Azure, AWS, Docker, Kubernetes, PowerShell, Terraform, Red Hat OpenShift, Microsoft Service Fabric, Octopus Deploy, Microsoft BizTalk Server,Jenkins, Azure DevOps, TeamCity, Confluence, Jira, Visual Studio, Visual Studio Code, Gradle, Git
+  Microsoft Azure, AWS, Docker, Kubernetes, PowerShell, Terraform, Red Hat OpenShift, Microsoft Service Fabric, Octopus Deploy, Microsoft BizTalk Server,Jenkins, Azure DevOps, TeamCity, Confluence, Jira, Visual Studio, Visual Studio Code, Gradle, Nuget, Git
 
 ## Industries and summaries
 Government, Financial Services, Transport, Military, Public Sector, Police, Commercial
@@ -42,6 +42,18 @@ Section: Platform Engineering
 October 2018 - Present
 
 ## Experience
+
+### Civil Aviation Safety Authority (Canberra)
+*Azure Developer*  
+January 2020 - May 2020
+
+#### CASA ESB
+* Design and document multiple ESB services as per requirements
+* Develop, test and deploy API operations interacting with Azure components
+* Define Swagger / OpenAPI definitions 
+* Define and implement process improvements (automation)
+* Provide assistance for junior staff where required
+* Documented in wiki, processes and how-tos for future team members
 
 ### Panasonic (Japan)
 *DevOps Engineer*  
