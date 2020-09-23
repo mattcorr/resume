@@ -43,6 +43,32 @@ October 2018 - Present
 
 ## Experience
 
+### CPA Australia (VIC)
+*Azure DevOps Engineer*  
+August 2020 - September 2020
+
+#### BizTalk 2013 R2 project migration to Azure DevOps
+* Define process for migrating BizTalk 2013 R2 applications to Azure DevOps 
+* Define YAML pipeline templates for BizTalk builds and deployments
+* Define and document BizTalk Build server definition
+* Design and implement application setting migration from XML to Library Groups and Azure Key Vault
+* Perform deployments in test and production environments of all BizTalk applications
+* Define library of scripts to assist with DevOps processes
+* Documented in wiki, processes and how-tos for future team members
+
+### BOQ Virgin Mobile Australia 
+*Azure DevOps Engineer*  
+June 2020 - August 2020
+
+#### DeNovo Project
+* Review and recommend improvements to existing DevOps processes 
+* Investigate integration with Veracode scanning with existing pipelines
+* Perform multiple improvements to simply and improve deployments
+* Define multiple scripts to assist with DevOps data management
+* Investigate and resolve issues with deployments
+* Migrate pipelines for multiple applications for new environments
+* Documented in wiki, processes and how-tos for future team members
+
 ### Civil Aviation Safety Authority (ACT)
 *Azure Developer*  
 January 2020 - May 2020
