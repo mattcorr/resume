@@ -3,16 +3,16 @@
 Throughout his career, Matt has demonstrated a high level of proficiency in two roles: Developer and DevOps Engineer. 
 As a developer, Matt has extensive experience building Microsoft Integration solutions utilising BizTalk Server and Service Fabric. He is well known for his methodical approach and for his excellent documentation and diagrams. 
 
-As a DevOps Engineer, Matt is passionate about delivering successful outcomes through his expert implementation of DevOps processes and automation. While highly skilled and knowledgeable in Microsoft technologies such as PowerShell and Azure DevOps _(formerly VSTS)_, he is equally proficient in leveraging industry-standard tools like Octopus Deploy and TeamCity. 
+As a DevOps Engineer, Matt is passionate about delivering successful outcomes through his expert implementation of DevOps processes and automation. While highly skilled and knowledgeable in Microsoft technologies such as PowerShell and Azure DevOps, he is equally proficient in leveraging industry-standard tools like Octopus Deploy and TeamCity. 
 
-Matt has recently worked with non-Microsoft environments and tools such as AWS, Jenkins, OpenShift and terraform. This has provided him with broader experience across the industry as a whole.
+Matt has worked with non-Microsoft environments and tools such as AWS, Jenkins, OpenShift and Terraform. This has provided him with broader experience across the industry as a whole.
 
 In general, Matt has repeatedly shown high levels of experience with the build, deployment and testing of different integration applications across various types of client environments. He is continually sought after as an SME in all aspects of DevOps, both within Deloitte and by our clients.
 
 ---
 
 ## Technology and Skills
-  Microsoft Azure, AWS, Docker, Kubernetes, PowerShell, Terraform, Red Hat OpenShift, Microsoft Service Fabric, Octopus Deploy, Microsoft BizTalk Server,Jenkins, Azure DevOps, TeamCity, Confluence, Jira, Visual Studio, Visual Studio Code, Gradle, Nuget, Git
+  Microsoft Azure, AWS, Docker, Kubernetes, PowerShell, Terraform, Red Hat OpenShift, Microsoft Service Fabric, Octopus Deploy, Microsoft BizTalk Server,Jenkins, Azure DevOps, TeamCity, Confluence, Jira, Visual Studio, Visual Studio Code, Gradle, Nuget, Git, YML Pipelines
 
 ## Industries and summaries
 Government, Financial Services, Transport, Military, Public Sector, Police, Commercial
@@ -42,6 +42,16 @@ Section: Platform Engineering
 October 2018 - Present
 
 ## Experience
+
+### Civil Aviation Safety Authority (ACT)
+*Azure Developer and DevOps Engineer*  
+September 2020 - October 2020
+
+#### CASA ESB
+* Upgrade multiple applications to use .net core 3.1
+* Deploy applications to various Azure environments
+* Provide script assistance to help out developers
+* Create a Proof of Concept for migration to YAML pipelines from Release pipelines
 
 ### CPA Australia (VIC)
 *Azure DevOps Engineer*  
