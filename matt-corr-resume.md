@@ -43,6 +43,25 @@ October 2018 - Present
 
 ## Experience
 
+### Al Hilal Bank (Abu Dhabi - UAE)
+*DevOps Engineer*  
+November 2020 – December 2020
+
+#### Alpha Platform Migration
+* Assist UK based Deloitte team with DevOps work to migrate existing AWS platform to Azure
+* Develop and test Azure based Terraform projects
+* Develop and test Buildkite pipelines 
+
+### Virgin Mobile Bank (QLD)
+*DevOps Engineer*  
+October 2020 – November 2020
+
+#### DeNovo
+* Assisting other DevOps engineers with automation and optimisations
+* Provided updates to multiple PowerShell scripts utilizing the az cli and REST APIs for Azure DevOps
+* Deploy applications to various Azure environments
+* Provide support for release and deployment issues across many applications
+
 ### Civil Aviation Safety Authority (ACT)
 *Azure Developer and DevOps Engineer*  
 September 2020 - October 2020
