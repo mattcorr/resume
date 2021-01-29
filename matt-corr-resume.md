@@ -48,7 +48,7 @@ October 2018 - Present
 November 2020 – December 2020
 
 #### Alpha Platform Migration
-* Assist UK based Deloitte team with DevOps work to migrate existing AWS platform to Azure
+* Assist UK based Deloitte team with DevOps work to migrate existing AWS banking platform to Azure
 * Develop and test Azure based Terraform projects
 * Develop and test Buildkite pipelines 
 
