@@ -146,7 +146,7 @@ May 2019 – July 2019
 
 ### Bank of Queensland 
 *DevOps Engineer, Service Fabric Developer*  
-October 2018 – present
+October 2018 – March 2019
 
 #### Lending Project
 * Implemented automated Specflow testing for existing Service Fabric applications
