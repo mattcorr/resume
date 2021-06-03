@@ -52,7 +52,7 @@ October 2018 - Present
 ### Vic Roads (VIC)
 
 *DevOps Engineer*  
-Femburary 2021 – June 2021
+February 2021 – June 2021
 
 #### Web Services Support
 
