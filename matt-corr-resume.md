@@ -13,7 +13,7 @@ In general, Matt has repeatedly shown high levels of experience with the build, 
 
 ## Technology and Skills
 
-  Microsoft Azure, AWS, Docker, Kubernetes, C#, PowerShell, Terraform, Red Hat OpenShift, Microsoft Service Fabric, Octopus Deploy, Microsoft BizTalk Server, Jenkins, Azure DevOps, TeamCity, Confluence, Jira, SQL Server, Visual Studio, Visual Studio Code, Gradle, Nuget, Git, YML Pipelines
+  Microsoft Azure, AWS, Docker, Kubernetes, C#, PowerShell, Terraform, Red Hat OpenShift, Microsoft Service Fabric, Octopus Deploy, Microsoft BizTalk Server, Jenkins, Azure DevOps, TeamCity, Confluence, Jira, SQL Server, Visual Studio, Visual Studio Code, Gradle, NuGet, Git, YML Pipelines
 
 ## Industries and summaries
 
@@ -36,18 +36,36 @@ Microsoft Certified Professional
 
 * [Blog](https://www.intrepidintegration.com)
 * [Twitter](https://www.twitter.com/mattcorr)
-* [Linkedin](https://www.linkedin.com/mattcorr)
+* [LinkedIn](https://www.linkedin.com/mattcorr)
 * [GitHub](https://www.github.com/mattcorr)
 
 ---
 
 ## Employer
 
+**MOQdigital**  
+August 2021 - Present
+## Experience
+
+_Coming Soon_
+
 **Deloitte Consulting**  
 Section: Platform Engineering  
-October 2018 - Present
+October 2018 - July 2021
 
 ## Experience
+
+### BOQx (QLD)
+
+*DevOps Engineer*  
+July 2021 – July 2021
+
+#### DevOps Automation and Support
+
+* Assisting other DevOps engineers with automation and optimisations
+* Provided updates to multiple PowerShell scripts utilizing the az cli and REST APIs for Azure DevOps
+* Deploy applications and API policies to various Azure environments
+* Provide support for release and deployment issues across many applications
 
 ### Vic Roads (VIC)
 
