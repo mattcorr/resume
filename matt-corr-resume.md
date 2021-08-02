@@ -46,8 +46,12 @@ Microsoft Certified Professional
 **MOQdigital**  
 August 2021 - Present
 ## Experience
+Solution Specialist - DevOps  
+August 2021 - Present  
+_Details coming soon_
 
-_Coming Soon_
+---
+## Employer
 
 **Deloitte Consulting**  
 Section: Platform Engineering  
