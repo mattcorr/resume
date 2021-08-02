@@ -46,9 +46,10 @@ Microsoft Certified Professional
 **MOQdigital**  
 August 2021 - Present
 ## Experience
-Solution Specialist - DevOps  
+*Solution Specialist - DevOps*  
 August 2021 - Present  
-_Details coming soon_
+
+`Details coming soon`
 
 ---
 ## Employer
