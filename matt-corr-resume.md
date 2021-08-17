@@ -200,7 +200,7 @@ May 2019 – July 2019
 
 #### Application Platform
 
-* Implemented updates and corrections to existing Azure components 
+* Implemented updates and corrections to existing Azure components
 * Implemented updates and corrections to existing Azure DevOps components
 
 ### Bank of Queensland
@@ -355,7 +355,7 @@ July 2006 - July 2007
 ### South East Fibre Exports / Botanical Foods / Carter Holt Harvey / Nelson Pine Industries
 
 *Senior Software Engineer*  
-August 2015 - July 2006
+August 2005 - July 2006
 
 #### Mandalay Forestry & Mandalay Pallet Labeller Support
 
