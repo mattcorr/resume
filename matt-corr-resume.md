@@ -1,11 +1,11 @@
 # Matthew Corr - Solution Specialist - DevOps
 
 Throughout his career, Matt has demonstrated a high level of proficiency in two roles: Developer and DevOps Engineer.  
-As a developer, Matt has extensive experience building Microsoft Integration solutions utilising Infrastructure as Code (IaC), App Services, Service Fabric and BizTalk Server. He is well known for his methodical approach and his excellent documentation and diagrams.  
+As a developer, Matt has extensive experience building Microsoft Integration solutions utilising Infrastructure as Code (IaC), App Services, Service Fabric and BizTalk Server. He is well known for his methodical approach and excellent documentation and diagrams.  
 
 As a DevOps Engineer, Matt is passionate about delivering successful outcomes through his expert implementation of DevOps processes and automation. While highly skilled and knowledgeable in Microsoft technologies such as PowerShell and Azure DevOps, he is equally proficient in leveraging industry-standard tools like Octopus Deploy and TeamCity.
 
-At his two previous employers, Matt was able to grow his DevOps skills with high-level designs and DevOps assessments for various clients utilising Microsoft Azure DevOps. He has been able to document internal guidelines, run DevOps Guild groups and meetings and provide recommendations for his employers themselves and help external clients to achieve more in the DevOps space.
+While employed at his two previous employers, Matt was able to grow his DevOps skills with high-level designs and DevOps assessments for various clients utilising Microsoft Azure DevOps. He has been able to document internal guidelines, run DevOps Guild group meetings, provide recommendations for his employers, and help external clients achieve more in the DevOps space.
 
 In general, Matt has repeatedly shown high levels of experience with building, deploying, testing and documenting different applications across various client environments. He is continually sought after as an SME in all aspects of DevOps.
 
