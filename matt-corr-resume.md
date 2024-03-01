@@ -1,19 +1,19 @@
 # Matthew Corr - Solution Specialist - DevOps
 
 Throughout his career, Matt has demonstrated a high level of proficiency in two roles: Developer and DevOps Engineer.  
-As a developer, Matt has extensive experience building Microsoft Integration solutions utilising BizTalk Server and Service Fabric. He is well known for his methodical approach and his excellent documentation and diagrams.  
+As a developer, Matt has extensive experience building Microsoft Integration solutions utilising Infrastructure as Code (IaC), App Services, Service Fabric and BizTalk Server. He is well known for his methodical approach and his excellent documentation and diagrams.  
 
 As a DevOps Engineer, Matt is passionate about delivering successful outcomes through his expert implementation of DevOps processes and automation. While highly skilled and knowledgeable in Microsoft technologies such as PowerShell and Azure DevOps, he is equally proficient in leveraging industry-standard tools like Octopus Deploy and TeamCity.
 
-At MOQdigital, Matt was able to grow his DevOps skills with high-level designs and DevOps assessments for various clients utilising Microsoft Azure DevOps. He has been able to document internal guidelines and recommendations for MOQdigital itself and help external clients to achieve more in the DevOps space.
+At his two previous employers, Matt was able to grow his DevOps skills with high-level designs and DevOps assessments for various clients utilising Microsoft Azure DevOps. He has been able to document internal guidelines, run DevOps Guild groups and meetings and provide recommendations for his employers themselves and help external clients to achieve more in the DevOps space.
 
-In general, Matt has repeatedly shown high levels of experience with building, deploying and testing different integration applications across various client environments. He is continually sought after as an SME in all aspects of DevOps.
+In general, Matt has repeatedly shown high levels of experience with building, deploying, testing and documenting different applications across various client environments. He is continually sought after as an SME in all aspects of DevOps.
 
 ---
 
 ## Technology and Skills
 
-  Microsoft Azure, Azure DevOps, GitHub Enterprise, Azure Synapse, Power Platform, Microsoft SQL Server, NuGet, Git, C#, PowerShell, Terraform, YML Pipelines, AWS, Docker, Kubernetes,  Microsoft Service Fabric, Octopus Deploy, Microsoft BizTalk Server, TeamCity, Confluence, Jira, Visual Studio, Visual Studio Code
+  Microsoft Azure, Azure DevOps, GitHub Enterprise, PowerShell, Az CLI, Automation, C#, Bicep, Terraform, ARM , YAML Pipelines, Git, Visual Studio, Visual Studio Code, Conflunce, Microsoft SQL Server, Microsoft Biztalk Server, Power Platform, TeamCity, Jira, AWS, Docker
 
 ## Industries and summaries
 
@@ -21,7 +21,7 @@ Government, Financial Services, Transport, Military, Public Sector, Police, Comm
 
 ## Book Contributions
 
-- [Modern IT Automation PowerShell](https://leanpub.com/modernautomationwithpowershell)
+- [Modern IT Automation with PowerShell](https://leanpub.com/modernautomationwithpowershell)
 
 ## Education
 
@@ -33,8 +33,9 @@ Associate Diploma of Engineering (Computer Systems)
 
 ## Professional Training
 
-**Microsoft**  
-Microsoft Certified Professional
+### Microsoft
+
+- Microsoft Certified Professional
 
 ## External Links
 
@@ -48,11 +49,68 @@ Microsoft Certified Professional
 ## Employer
 
 **Brennan**  
-November 2022 - Present
-## Experience
-*Solution Specialist - DevOps*
+November 2022 - Feburary 2024
 
-`Details coming soon`
+## Experience
+
+### Brennan Digital (Internal)
+
+*Solution Specialist - DevOps*  
+November 2022 - Feburary 2024
+
+#### Internal DevOps Guidance
+
+- Created and assisted with common and standard repos for internal usage
+- Ran and co-presented monthly Azure DevOps / DevOps Guild showcases
+- Created Confluence wiki content defining the DevOps Process and best practices
+- Assisted staff with guidance and advice with DevOps related questions for their projects
+- Assisted Sales staff with client proposals and bids
+
+### Secure Parking
+
+### Australian Psychology Society
+
+August 2023 - January 2024
+
+- Assist developers implementing Bicep Infrastructure as Code (IaC) solutions
+- Design standards for Azure DevOps git policies
+- Define validation and deployment process for repos into Azure for IaC
+
+### Transgrid
+
+April 2023 - August 2023
+
+#### DevOps Process Design
+
+- Design Platform Engineer Solution with Service Now & Azure DevOps
+- Collaborate with Service Now and Azure Engineers for integration components
+
+### BHP
+
+June 2023 - July 2023
+
+#### Git Workshop
+
+- Develop and compile a comprehensive guide on utilizing Git, incorporating best practices alongside explanations of frequently used commands.
+- Deliver a remote workshop for BHP developers on Git Fundamentals
+
+### Griffith University
+
+Feburary 2023 - May 2023
+
+#### Terraform Guidance
+
+- Provide guidance with Terraform with the IaC developers
+- Assist with the development of validation and deployment pipelines via Azure DevOps
+
+### IBAC
+
+December 2022 - March 2023
+
+#### DevOps Guidance
+
+- Provide DevOps Guidance and Demo
+- Run a demo of deployments of sample projects to show code quality checks and deployment process
 
 ---
 
@@ -60,12 +118,14 @@ November 2022 - Present
 
 **MOQdigital**  
 August 2021 - November 2022
+
 ## Experience
 
 ### MOQdigital (Internal)
 
 *Solution Specialist - DevOps*  
 August 2021 - November 2022
+
 #### Internal DevOps Guidance
 
 - Managed the creation and administration of MOQdigital GitHub presence
@@ -558,3 +618,4 @@ July 1996 - August 1998
 - Assembled a high number of standard or custom windows computers
 - Investigates and resolves hardware issues with customer computers
 - Assisted general public with computer issues, sales or inquiries
+
