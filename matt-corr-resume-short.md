@@ -24,7 +24,7 @@ Government, Financial Services, Transport, Military, Public Sector, Police, Comm
 
 ## Book Contributions
 
-- [Modern IT Automation with PowerShell](https://leanpub.com/modernautomationwithpowershell)
+[Modern IT Automation with PowerShell](https://leanpub.com/modernautomationwithpowershell)
 
 ## Education
 
@@ -38,7 +38,7 @@ Associate Diploma of Engineering (Computer Systems) - 1995
 
 ### Microsoft
 
-- Microsoft Certified Professional
+**Microsoft Certified Professional** - Architecting Microsoft Azure Solutions (2018)
 
 ## Employers
 
@@ -54,7 +54,7 @@ October 2018 - July 2021
 **Mexia** - *BizTalk Developer / DevOps Engineer*  
 July 2013 - October 2018
 
-**Hewlett Packard Enterprise Services** - *Application Development & Support*  
+**Hewlett Packard Enterprise Services** - *Application Developer & Support*  
 March 2009 - June 2013
 
 **Mandalay Technologies** - *Senior Software Engineer*  
