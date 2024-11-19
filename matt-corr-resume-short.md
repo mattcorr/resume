@@ -16,7 +16,7 @@ In general, Matt has repeatedly shown high levels of experience with building, d
 
 ## Technology and Skills
 
-Microsoft Azure, Azure DevOps, GitHub Enterprise, PowerShell, Az CLI, Automation, C#, Bicep, Terraform, ARM, YAML Pipelines, Git, Visual Studio, Visual Studio Code, Confluence, Microsoft SQL Server, Microsoft Biztalk Server, Power Platform, TeamCity, Jira, AWS, Docker
+Microsoft Azure, Azure DevOps, Azure Monitor, App Dynamics, Application Insights, GitHub Enterprise, PowerShell, Az CLI, Automation, C#, KQL, Bicep, Terraform, ARM, YAML Pipelines, Git, Visual Studio, Visual Studio Code, Confluence, Microsoft SQL Server, Microsoft Biztalk Server, Power Platform, TeamCity, Jira, AWS, Docker
 
 ## Industries and summaries
 
@@ -42,6 +42,9 @@ Associate Diploma of Engineering (Computer Systems) - 1995
 
 ## Employers
 
+**Luxoft (A DXC Company)** - *Site Reliability Engineer*  
+April 2024 - Current
+
 **Brennan** - *Solutions Specialist - DevOps*  
 November 2022 - February 2024
 
@@ -65,7 +68,9 @@ September 1998 - July 2005
 
 ## External Links
 
-- [Blog](https://www.intrepidintegration.com)
+- [Blog](https://blog.mattcorr.com)
+- [Bluesky](https://mattcorr.bsky.social)
+- [Threads](https://www.threads.net/@mattycorr)
 - [Twitter](https://www.twitter.com/mattcorr)
 - [LinkedIn](https://www.linkedin.com/mattcorr)
 - [GitHub](https://www.github.com/mattcorr)
