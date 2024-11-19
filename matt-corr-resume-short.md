@@ -1,4 +1,4 @@
-# Matthew Corr - Solutions Specialist - DevOps
+# Matthew Corr - DevOps - SRE
 
 Throughout his career, Matt has demonstrated a high level of proficiency in two roles: Developer and DevOps Engineer.
 
@@ -10,13 +10,15 @@ As a DevOps Engineer, Matt is passionate about delivering successful outcomes th
 
 While at previous employers, Matt was able to grow his DevOps skills with high-level designs and DevOps assessments for various clients utilising Microsoft Azure DevOps. He has been able to document internal guidelines, run DevOps Guild group meetings, provide recommendations for his employers, and help external clients achieve more in the DevOps space.
 
+As a Site Reliability Engineer, Matt focuses on enhancing and automating monitoring solutions for applications deployed to production. His attention to detail and ability to create clear diagrams contribute to the development of user-friendly and informative dashboards. Utilising his PowerShell expertise, Matt develops script-based automations that support reporting and streamline investigations.
+
 In general, Matt has repeatedly shown high levels of experience with building, deploying, testing and documenting different applications across various client environments. He is continually sought after as an SME in all aspects of DevOps.
 
 ---
 
 ## Technology and Skills
 
-Microsoft Azure, Azure DevOps, Azure Monitor, App Dynamics, Application Insights, GitHub Enterprise, PowerShell, Az CLI, Automation, C#, KQL, Bicep, Terraform, ARM, YAML Pipelines, Git, Visual Studio, Visual Studio Code, Confluence, Microsoft SQL Server, Microsoft Biztalk Server, Power Platform, TeamCity, Jira, AWS, Docker
+Microsoft Azure, Azure DevOps, Azure Monitor, App Dynamics, Application Insights, GitHub Enterprise, Opsgenie, PowerShell, Az CLI, Automation, C#, KQL, Bicep, Terraform, ARM, YAML Pipelines, Git, Visual Studio, Visual Studio Code, Confluence, Microsoft SQL Server, Microsoft Biztalk Server, Power Platform, TeamCity, Jira, AWS, Docker
 
 ## Industries and summaries
 
