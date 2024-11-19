@@ -42,13 +42,33 @@ Associate Diploma of Engineering (Computer Systems) - 1995
 
 ## External Links
 
-- [Blog](https://www.intrepidintegration.com)
+- [Blog](https://blog.mattcorr.com)
+- [Bluesky](https://mattcorr.bsky.social)
+- [Threads](https://www.threads.net/@mattycorr)
 - [Twitter](https://www.twitter.com/mattcorr)
 - [LinkedIn](https://www.linkedin.com/mattcorr)
 - [GitHub](https://www.github.com/mattcorr)
 - [Full Detail Resume](https://github.com/mattcorr/resume/blob/main/matt-corr-resume.md)
 
 ## Employers
+
+### Luxoft (A DXC Company)
+_Site Reliability Engineer_  
+April 2024 - Current
+
+#### Experience
+
+##### Bank of Queensland
+April 2024 - Current
+
+**Site Reliability Engineer**
+- Real time monitoring of Digital Banking platform.
+- Utilise many different monitoring tools to understand the bigger picture.
+- Investigate issues for historical trends to detect long term analomies.
+- Proactively review monitoring processes and implement improvements.
+- Use scripting to automate monitoring tasks.
+- Work with other teams to diagnose issues when they occur.
+- Document configuration and investigation processes for other staff and team members.
 
 ### Brennan
 _Solution Specialist - DevOps_
