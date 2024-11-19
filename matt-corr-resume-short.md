@@ -1,6 +1,6 @@
 # Matthew Corr - DevOps - SRE
 
-Throughout his career, Matt has demonstrated a high level of proficiency in two roles: Developer and DevOps Engineer.
+Throughout his career, Matt has demonstrated a high level of proficiency in three roles: Developer, DevOps Engineer and now Site Reliability Engineer.
 
 As a developer, Matt has extensive experience building Microsoft Integration solutions utilising Infrastructure as Code (IaC), App Services, Service Fabric and BizTalk Server. He is well known for his methodical approach and excellent documentation and diagrams.
 
