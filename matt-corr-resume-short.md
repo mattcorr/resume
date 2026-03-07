@@ -1,26 +1,18 @@
 # Matthew Corr - DevOps - SRE
 
-Throughout his career, Matt has demonstrated a high level of proficiency in three roles: Developer, DevOps Engineer and now Site Reliability Engineer.
+Matt is a senior DevOps and Site Reliability Engineer with deep experience across Azure, Azure DevOps, PowerShell, infrastructure as code, and production monitoring. He has delivered integration, platform, and deployment solutions across banking, government, transport, and commercial environments.
 
-As a developer, Matt has extensive experience building Microsoft Integration solutions utilising Infrastructure as Code (IaC), App Services, Service Fabric and BizTalk Server. He is well known for his methodical approach and excellent documentation and diagrams.
+His background spans software development, DevOps engineering, and site reliability engineering, with particular strength in automation, operational visibility, and release processes. He is known for clear documentation, practical tooling, and mentoring teams in Bicep, Terraform, and modern deployment practices.
 
-More recently, Matt was able to mentor several developers on how to use both Bicep and Terraform for multiple client projects. This teamwork included general knowledge, best practices and deployment approaches for these technologies.
-
-As a DevOps Engineer, Matt is passionate about delivering successful outcomes through his expert implementation of DevOps processes and automation. While highly skilled and knowledgeable in Microsoft technologies such as PowerShell and Azure DevOps, he is equally proficient in leveraging industry-standard tools like Octopus Deploy and TeamCity.
-
-While at previous employers, Matt was able to grow his DevOps skills with high-level designs and DevOps assessments for various clients utilising Microsoft Azure DevOps. He has been able to document internal guidelines, run DevOps Guild group meetings, provide recommendations for his employers, and help external clients achieve more in the DevOps space.
-
-As a Site Reliability Engineer, Matt focuses on enhancing and automating monitoring solutions for applications deployed to production. His attention to detail and ability to create clear diagrams contribute to the development of user-friendly and informative dashboards. Utilising his PowerShell expertise, Matt develops script-based automations that support reporting and streamline investigations.
-
-In general, Matt has repeatedly shown high levels of experience with building, deploying, testing and documenting different applications across various client environments. He is continually sought after as an SME in all aspects of DevOps.
+More recently, Matt has focused on production monitoring, dashboard design, reporting automation, and investigation workflows. He works effectively across engineering and operational teams to improve reliability, reduce manual effort, and strengthen delivery practices.
 
 ---
 
 ## Technology and Skills
 
-Microsoft Azure, Azure DevOps, Azure Monitor, App Dynamics, Application Insights, GitHub Enterprise, Opsgenie, PowerShell, Az CLI, Automation, C#, KQL, Bicep, Terraform, ARM, YAML Pipelines, Git, Visual Studio, Visual Studio Code, Confluence, Microsoft SQL Server, Microsoft Biztalk Server, Power Platform, TeamCity, Jira, AWS, Docker
+Microsoft Azure, Azure DevOps, Azure Monitor, AppDynamics, Application Insights, GitHub Enterprise, Opsgenie, PowerShell, Az CLI, Automation, C#, KQL, Bicep, Terraform, ARM, YAML Pipelines, Git, Visual Studio, Visual Studio Code, Confluence, Microsoft SQL Server, Microsoft BizTalk Server, Power Platform, TeamCity, Jira, AWS, Docker
 
-## Industries and summaries
+## Industry Experience
 
 Government, Financial Services, Transport, Military, Public Sector, Police, Commercial
 
@@ -59,7 +51,7 @@ October 2018 - July 2021
 **Mexia** - *BizTalk Developer / DevOps Engineer*  
 July 2013 - October 2018
 
-**Hewlett Packard Enterprise Services** - *Application Developer & Support*  
+**Hewlett Packard Enterprise Services** - *BizTalk Developer & Middleware Support*  
 March 2009 - June 2013
 
 **Mandalay Technologies** - *Senior Software Engineer*  
