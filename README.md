@@ -1,5 +1,7 @@
 ## Summary
 
-To see my resume in short form, click on this file **[matt-corr-resume-short.md](https://github.com/mattcorr/resume/blob/master/matt-corr-resume-short.md)**.
+There are two views of my resume available:
 
-To see my resume, click on this file **[matt-corr-resume.md](https://github.com/mattcorr/resume/blob/master/matt-corr-resume.md)**.
+- [View the short resume](https://github.com/mattcorr/resume/blob/main/matt-corr-resume-short.md) for a quick one page summary.
+
+- [View the full resume](https://github.com/mattcorr/resume/blob/main/matt-corr-resume.md) with detailed work history.
